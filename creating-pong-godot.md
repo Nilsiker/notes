@@ -1,8 +1,8 @@
 # Creating Pong in Godot 
 
-#gamedev #godot #20-games-challenge
+#gamedev #godot
 
-This is a part of my [[20 Games Challenge]].
+This is a part of my [20 Games Challenge](20-games-challenge.md).
 
 ### Goals:
 
@@ -27,7 +27,7 @@ This is a part of my [[20 Games Challenge]].
 
 ### Lessons learned
 
-- [[Bouncing Objects in Godot]]
-- [[Viewport Scaling in Godot]]
-- [[ Touch Input in Godot ]]
-- [[Godot 4 Web Build CI with GitHub Actions ]]
+- [Bouncing Objects](bouncing-object-godot.md)
+- [Viewport Scaling](viewport-scaling-godot.md)
+- [Touch Input](touch-input-godot.md)
+- [Web Build CI](godot-4-web-build-github-actions.md)

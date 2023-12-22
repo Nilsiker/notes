@@ -11,6 +11,6 @@ Use a CanvasLayer for HUD! This enables full rect fitting for the viewport which
 This one is more tricky, because you might have different use cases.
 |Camera|Image|Proposal|Example|
 |---|---|---|---|
-|Static|Static, Cover|TextureRect or Sprite2D covering viewport| [[Creating Pong in Godot\|Pong]] |
-|Pans|[[Parallax]]|TextureRect or Sprite2D, manually designed to cover???| ??? |
+|Static|Static, Cover|TextureRect or Sprite2D covering viewport| [[creating-pong-godot|Pong]] |
+|Pans|[Parallax](parallax-godot.md)|TextureRect or Sprite2D, manually designed to cover???| ??? |
 

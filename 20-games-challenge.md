@@ -6,6 +6,6 @@ To help build my skillset in game development and Godot, I'm doing the [20 Games
 
 ## Progress
 
-| Game | Title                            | Status |
-| ---- | -------------------------------- | ------ |
-| #1   | [[Creating Pong in Godot\|Pong]] | Done   |
+| Game | Title                          | Status |
+| ---- | ------------------------------ | ------ |
+| #1   | [Pong](creating-pong-godot.md) | Done   |
